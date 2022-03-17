@@ -19,6 +19,14 @@ Feel free to check my repos😄
 
 Bye and **get after it!**
 
+<h2>Stats</h2>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikael-Kolehmainen&count_private=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-Kolehmainen&count_private=true&theme=dracula&langs_count=6" />
+
 <!--
 **Mikael-Kolehmainen/Mikael-Kolehmainen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
