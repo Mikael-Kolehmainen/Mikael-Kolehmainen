@@ -4,7 +4,9 @@ I'm Mikael Kolehmainen, from Finland. My interests are powerlifting🏋️, read
 
 The languages I use are **C#**, **HTML**, **PHP**, **JS**, **Python**, **Dart** and **SQL**. I started my journey with **C++** but can't say I'm a master at it and quickly moved on to C#.
 
-And lastly **I DON'T PLAY VIDEOGAMES.** as it tends to make me unproductive and I generally think they're bad for you.
+Check out my Youtube channel where I used to post tutorials on coding https://www.youtube.com/channel/UCb4ZkKi2XqeopJUEQcTIR8w. I don't post as frequently as I used to.
+
+And lastly **I DON'T PLAY VIDEOGAMES.** as it tends to make me unproductive and I generally think they're bad for you. I just to have a severe addiction with videogames and quitting was one of the best decisons I've made in my life.
 
 <h2 align="left">Contact</h2>
 
