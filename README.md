@@ -1,4 +1,21 @@
-### Hi there :muscle:
+### Hi there! 💪
+
+I'm Mikael Kolehmainen, from Finland. My interests are powerlifting🏋️, reading📘 and computers🖥️. I also work at Wasamove as a cashier.
+
+The languages I use are **C#**, **HTML**, **PHP**, **JS**, **Python**, **Dart** and **SQL**.
+
+And lastly **I DON'T PLAY VIDEOGAMES.** as it tends to make me unproductive and I generally think they're bad for you.
+
+<h2 align="left">Contact</h2>
+
+You can contact me on my e-mail:
+<ul>
+  <li>mikaelkolehmainen05@gmail.com</li>
+</ul>
+
+Feel free to check my repos😄
+
+Bye and **get after it!**
 
 <!--
 **Mikael-Kolehmainen/Mikael-Kolehmainen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
