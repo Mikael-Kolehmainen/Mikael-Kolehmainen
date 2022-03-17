@@ -19,6 +19,8 @@ Feel free to check my repos although most of them are private.😄
 
 Bye and **get after it!**
 
+PS. I use Ubuntu.
+
 <h2>Stats</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
