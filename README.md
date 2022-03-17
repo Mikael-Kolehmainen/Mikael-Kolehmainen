@@ -15,7 +15,7 @@ You can contact me on my e-mail:
   <li>mikaelkolehmainen05@gmail.com</li>
 </ul>
 
-Feel free to check my repos😄
+Feel free to check my repos although most of them are private.😄
 
 Bye and **get after it!**
 
