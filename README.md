@@ -27,7 +27,7 @@ PS. I use Ubuntu.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikael-Kolehmainen&count_private=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-Kolehmainen&count_private=true&theme=radical&langs_count=6&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-Kolehmainen&count_private=true&theme=radical&langs_count=6" />
 
 <!--
 **Mikael-Kolehmainen/Mikael-Kolehmainen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
