@@ -2,7 +2,7 @@
 
 I'm Mikael Kolehmainen, from Finland. My interests are powerlifting🏋️, reading📘 and computers🖥️. I also work at Wasamove as a cashier.
 
-The languages I use are **C#**, **HTML**, **PHP**, **JS**, **Python**, **Dart** and **SQL**.
+The languages I use are **C#**, **HTML**, **PHP**, **JS**, **Python**, **Dart** and **SQL**. I started my journey with **C++** but can't say I'm a master at it and quickly moved on to C#.
 
 And lastly **I DON'T PLAY VIDEOGAMES.** as it tends to make me unproductive and I generally think they're bad for you.
 
