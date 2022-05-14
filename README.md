@@ -2,7 +2,7 @@
 
 I'm Mikael Kolehmainen, from Finland. My interests are powerlifting🏋️, reading📘 and computers🖥️. I also work at Wasamove as a cashier.
 
-The languages I use are **C#**, **HTML**, **PHP**, **JS**, **Python**, **Dart** and **SQL**. I started my journey with **C++** but can't say I'm a master at it and quickly moved on to C#.
+The languages I use are **HTML**, **CSS**, **JS**, **PHP**, **C#**, **Python** and **SQL**. I started my journey with **C++** but can't say I'm a master at it and quickly moved on to C#. I have also tried **React/Node.js** and **Dart/Flutter**.
 
 Check out my Youtube channel where I used to post tutorials on coding https://www.youtube.com/channel/UCb4ZkKi2XqeopJUEQcTIR8w. I don't post as frequently as I used to.
 
