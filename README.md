@@ -24,7 +24,7 @@ PS. I use Ubuntu.
 <h2>Stats</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikael-Kolehmainen&count_private=true&bg_color=45,#EECDA3,#EF629F&hide_border=true
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikael-Kolehmainen&count_private=true&bg_color=45,EECDA3,EF629F&hide_border=true
 " />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
