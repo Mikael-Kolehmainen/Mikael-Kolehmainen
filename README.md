@@ -9,11 +9,17 @@ Check out my Youtube channel where I used to post tutorials on coding https://ww
 
 And lastly **I DON'T PLAY VIDEOGAMES.** as it tends to make me unproductive and I generally think they're bad for you. I used to have a severe addiction with videogames and quitting was one of the best decisons I've made in my life.
 
-<h2 align="left">Contact</h2>
+<h2 align="left">Contact & Socials</h2>
 
 You can contact me on my e-mail:
 <ul>
   <li>mikaelkolehmainen05@gmail.com</li>
+</ul>
+
+Socials:
+<ul>
+  <li><a href='https://www.instagram.com/mikael_k_2005/' target='_blank'>Instagram</a></li>
+  <li><a href='https://www.youtube.com/channel/UCb4ZkKi2XqeopJUEQcTIR8w' target='_blank'>Youtube</a></li>
 </ul>
 
 Feel free to check my repos although most of them are private.😄
