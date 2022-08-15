@@ -7,7 +7,6 @@ The languages I use are **HTML**, **CSS**, **SCSS**, **JS**, **PHP**, **C#**, **
 
 Check out my Youtube channel where I used to post tutorials on coding https://www.youtube.com/channel/UCb4ZkKi2XqeopJUEQcTIR8w. I don't post as frequently as I used to.
 
-And lastly **I DON'T PLAY VIDEOGAMES.** as it tends to make me unproductive and I generally think they're bad for you. I used to have a severe addiction with videogames and quitting was one of the best decisons I've made in my life.
 
 <h2 align="left">Contact & Socials</h2>
 
