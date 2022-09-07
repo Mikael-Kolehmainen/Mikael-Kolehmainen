@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Mikael-Kolehmainen)
 ### Hi there! 💪
 
-I'm Mikael Kolehmainen, from Finland. My interests are powerlifting🏋️, chess♟️, reading📘 and computers🖥️. I also work at Wasamove as a cashier.
+I'm Mikael Kolehmainen, from Finland. My interests are powerlifting🏋️, reading📘 and computers🖥️. I also work at Wasamove as a cashier.
 
 The languages I use are **HTML**, **CSS**, **SCSS**, **JS**, **PHP**, **C#**, **Python** and **SQL**. I started my journey with **C++** but can't say I'm a master at it and quickly moved on to C#. I have also tried **React/Node.js**, **Dart/Flutter** and **VBA**.
 
