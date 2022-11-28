@@ -3,7 +3,7 @@
 
 I'm Mikael Kolehmainen, from Finland. My interests are powerlifting🏋️, reading📘 and computers🖥️. I work at Solid Code.
 
-The languages I use are **HTML**, **CSS**, **SCSS**, **JS**, **PHP**, **C#**, **Python** and **SQL**. I started my journey with **C++** but can't say I'm a master at it and quickly moved on to C#. I have also tried **React/Node.js**, **Dart/Flutter** and **VBA**.
+The languages I use are **HTML**, **CSS**, **SCSS**, **JS**, **PHP**, **C#**, **Python** and **SQL**. I started my journey with **C++** but can't say I'm a master at it and quickly moved on to C#. I have also tried **React/Node.js**, **Dart/Flutter** and **VBA**. Currently using **PHP**, **SCSS**, **HTML**, **JS** and **C**.
 
 Check out my Youtube channel where I used to post tutorials on coding https://www.youtube.com/channel/UCb4ZkKi2XqeopJUEQcTIR8w. I don't post as frequently as I used to.
 
