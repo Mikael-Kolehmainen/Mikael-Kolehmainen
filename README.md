@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Mikael-Kolehmainen)
 ### Hi there! 💪
 
-I'm Mikael Kolehmainen, from Finland. My interests are powerlifting🏋️, reading📘 and computers🖥️. I work at Solid Code.
+I'm Mikael Kolehmainen, from Finland. My interests are powerlifting🏋️, reading📘 and computers🖥️. I'm a Junior Developer at Solid Code.
 
 The languages I use are **HTML**, **CSS**, **SCSS**, **JS**, **PHP**, **C#**, **Python** and **SQL**. I have also tried **React/Node.js**, **Dart/Flutter** and **VBA**. Currently using **PHP**, **SCSS**, **HTML** and **JS**. Currently learning **Node.js**.
 
