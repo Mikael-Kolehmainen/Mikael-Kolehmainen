@@ -26,7 +26,7 @@ Bye and **get after it!**
 <h2>Stats</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikael-Kolehmainen&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mikael-Kolehmainen&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-Kolehmainen&count_private=true&langs_count=10&bg_color=30,e96443,904e95&hide_border=true&title_color=fff&text_color=fff&exclude_repo=Scoreboard" />
