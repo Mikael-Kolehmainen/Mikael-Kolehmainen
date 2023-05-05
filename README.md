@@ -3,12 +3,27 @@
 
 I'm Mikael Kolehmainen, from Finland. My interests are gym🏋️, reading📘 and computers🖥️. I'm a Junior Developer at <a href='https://solidcode.fi/en/frontpage/' target='_blank'>Solid Code</a>.
 
-The languages I use are **HTML**, **CSS**, **SCSS**, **JS**, **Node.js**, **PHP**, **C#**, **Python** and **SQL**. I have also tried **Dart/Flutter** and **VBA**. Currently using **PHP**, **SCSS**, **HTML**, **JS** and **Node.js**.
-
-<h2 align="left">My development tools</h2>
+<h2 align="left">🛠️ My development tools</h2>
 <p align="center">
   <!-- LANGUAGES -->
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-8993BE?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-823085?style=for-the-badge&logo=CSharp&logoColor=white" />
+  <!-- WEB DEVELOPMENT -->
+  <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-C69?style=for-the-badge&logo=SASS&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=react&logoColor=white" />
+  <!-- ENVIRONMENTS -->
+  <img src="https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCKER-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9B00?style=for-the-badge&logo=amazon&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F1502F?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-171515?style=for-the-badge&logo=github&logoColor=white" />
+  <!-- OTHER -->
+  <img src="https://img.shields.io/badge/BASH-black?style=for-the-badge&logo=bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 <h2 align="left">🤝 Contact & Socials</h2>
