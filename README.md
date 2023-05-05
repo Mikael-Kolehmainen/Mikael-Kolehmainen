@@ -21,6 +21,8 @@ I'm Mikael Kolehmainen, from Finland. My interests are gym🏋️, reading📘 a
   <img src="https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/DOCKER-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9B00?style=for-the-badge&logo=amazon&logoColor=white" />
+  <br />
+  <!-- VERSION CONTROL -->
   <img src="https://img.shields.io/badge/GIT-F1502F?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GITHUB-171515?style=for-the-badge&logo=github&logoColor=white" />
   <br />
