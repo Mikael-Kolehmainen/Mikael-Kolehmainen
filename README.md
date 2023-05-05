@@ -35,7 +35,7 @@ I'm Mikael Kolehmainen, from Finland. My interests are gym🏋️, reading📘 a
   <img src="https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<h2 align="left">🤝 Contact & Socials</h2>
+<h2 align="left">🤝 Contact Me</h2>
 
 You can contact me on my e-mail:
 <ul>
