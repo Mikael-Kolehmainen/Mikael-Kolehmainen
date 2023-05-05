@@ -42,13 +42,6 @@ You can contact me on my e-mail:
   <li>mikaelkolehmainen05@gmail.com</li>
 </ul>
 
-Socials:
-<ul>
-  <li><a href='https://www.instagram.com/mikael_k_2005/' target='_blank'>Instagram</a></li>
-  <li><a href='https://www.youtube.com/channel/UCb4ZkKi2XqeopJUEQcTIR8w' target='_blank'>Youtube</a></li>
-  <li><a href='https://www.npmjs.com/~mikael-kolehmainen'>NPM</a></li>
-</ul>
-
 Feel free to check my repos although most of them are private.😄
 
 Bye and **get after it!**
