@@ -38,9 +38,9 @@ I've also competed in Finnish championships, <a href='https://taitaja2023.fi/fi/
 
 <h2 align="left">🤝 Contact Me</h2>
 
-You can contact me on my e-mail:
 <ul>
   <li>mikaelkolehmainen05@gmail.com</li>
+  <li><a href='https://www.linkedin.com/in/mikael-k-991898276/'>LinkedIn</a></li>
 </ul>
 
 Feel free to check my repos although most of them are private.😄
