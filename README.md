@@ -40,7 +40,7 @@ I've also competed in Finnish championships, <a href='https://taitaja2023.fi/fi/
 
 <ul>
   <li>mikaelkolehmainen05@gmail.com</li>
-  <li><a href='https://www.linkedin.com/in/mikael-k-991898276/'>LinkedIn</a></li>
+  <li><a href='https://www.linkedin.com/in/mikael-kolehmainen-991898276/'>LinkedIn</a></li>
 </ul>
 
 Feel free to check my repos although most of them are private.😄
