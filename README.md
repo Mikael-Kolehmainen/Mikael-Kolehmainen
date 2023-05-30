@@ -34,7 +34,7 @@ I've also competed in Finnish championships, <a href='https://taitaja2023.fi/fi/
   <!-- OTHER -->
   <img src="https://img.shields.io/badge/BASH-black?style=for-the-badge&logo=bash&logoColor=white" />
   <img src="https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="[https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MYSQL%20workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)" />
+  <img src="https://img.shields.io/badge/MYSQL%20workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 <h2 align="left">🤝 Contact Me</h2>
