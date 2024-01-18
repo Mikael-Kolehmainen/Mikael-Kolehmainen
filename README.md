@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Mikael-Kolehmainen)
 ### Hi there! 💪
 
-I'm Mikael Kolehmainen, from Finland. My interests are gym🏋️, reading📘 and computers🖥️. I'm a Junior Developer at <a href='https://solidcode.fi/en/frontpage/' target='_blank'>Solid Code</a>.
+I'm Mikael Kolehmainen, from Finland. My interests are gym🏋️, reading📘 and computers🖥️. I'm a Developer at <a href='https://solidcode.fi/en/frontpage/' target='_blank'>Solid Code</a>.
 I've also competed in Finnish championships, <a href='https://taitaja2023.fi/fi/lajit/it-ja-viestintateknologia/206-web-kehitys/tulokset/' target='_blank'>Taitaja 2023 - Web design</a> where I got 1st place and <a href='https://taitaja2022.fi/fi/lajit/it-ja-viestintateknologia/206-verkkosivujen-tuottaminen/tulokset/' target='_blank'>Taitaja 2022 - Web design</a> where I got 3rd place.
 
 <h2 align="left">🛠️ My development tools</h2>
